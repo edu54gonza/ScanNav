@@ -18,7 +18,7 @@
         <section id="video">
             <h2>Video de la Aplicación</h2>
             <video controls>
-                <source src="nidia-scannav_vEcJhRoP.mp4" type="video/mp4">
+                <source src="C:\Users\lalit\OneDrive\Escritorio\TRABAJOS PYHTON\Nidia ScanNav.mp4" type="video/mp4">
                 Tu navegador no soporta la reproducción de videos.
             </video>
         </section>
@@ -32,10 +32,7 @@
         </section>
         <section id="download">
             <h2>Descargar la Aplicación</h2>
-            <button onclick="showGif()">PROXIMAMENTE...</button>
-            <div id="gifContainer" style="display: none; text-align: center;">
-                <img src="anuncio scannav.gif" alt="GIF de la Aplicación" style="max-width: 100%; height: auto;">
-            </div>
+            <button onclick="openGoogle()">Abrir Google</button>
         </section>
     </main>
     <footer>

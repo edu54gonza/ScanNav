@@ -19,7 +19,7 @@
         <section id="video">
             <h2>Video de la Aplicación</h2>
             <video controls>
-                <source src="C:\Users\lalit\OneDrive\Escritorio\TRABAJOS PYHTON\Nidia ScanNav.mp4" type="video/mp4">
+                <source src="nidia-scannav_vEcJhRoP.mp4" type="video/mp4">
                 Tu navegador no soporta la reproducción de videos.
             </video>
         </section>

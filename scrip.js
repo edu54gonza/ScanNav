@@ -1,3 +1,3 @@
 function openGoogle() {
-    window.open('anuncio scannav.gif', '_blank');
+    window.open('https://raw.githubusercontent.com/edu54gonza/ScanNav/main/PAGINA%20GIF', '_blank');
 }

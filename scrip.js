@@ -1,3 +1,3 @@
 function openGoogle() {
-    window.open('https://www.google.com', '_blank');
+    window.open('anuncio scannav.gif', '_blank');
 }

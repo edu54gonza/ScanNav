@@ -32,7 +32,7 @@
         </section>
         <section id="download">
             <h2>Descargar la Aplicación</h2>
-            <button onclick="openGoogle()">Abrir Google</button>
+            <button onclick="openGoogle()">PROXIMAMENTE...</button>
         </section>
     </main>
     <footer>

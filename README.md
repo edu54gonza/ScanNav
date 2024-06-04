@@ -34,7 +34,7 @@
             <h2>Descargar la Aplicación</h2>
             <button onclick="showGif()">PROXIMAMENTE...</button>
             <div id="gifContainer" style="display: none; text-align: center;">
-                <img src="ruta/a/tu/gif.gif" alt="GIF de la Aplicación" style="max-width: 100%; height: auto;">
+                <img src="anuncio scannav.gif" alt="GIF de la Aplicación" style="max-width: 100%; height: auto;">
             </div>
         </section>
     </main>

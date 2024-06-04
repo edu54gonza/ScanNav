@@ -1,4 +1,3 @@
-function showGif() {
-    const gifContainer = document.getElementById('anuncio scannav.gif');
-    gifContainer.style.display = 'block';
+function openGoogle() {
+    window.open('https://www.google.com', '_blank');
 }

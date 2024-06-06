@@ -44,7 +44,7 @@
             </ul>
         </section>
         <section id="download">
-            <h2>Descargar la Aplicación</h2>
+            <h2>PROXIMAMENTE....</h2>
             <button onclick="openGoogle()">Abrir Google</button>
         </section>
         <!-- Sección de imagen centrada -->
@@ -53,11 +53,11 @@
         </section>
         <!-- Segunda imagen centrada -->
         <section class="center-image">
-            <img src="ruta-de-tu-imagen-2.jpg" alt="Descripción de la imagen 2">
+            <img src="Segundo.jpeg" alt="Descripción de la imagen 2">
         </section>
         <!-- Tercera imagen centrada -->
         <section class="center-image">
-            <img src="ruta-de-tu-imagen-3.jpg" alt="Descripción de la imagen 3">
+            <img src="Tercero.jpeg" alt="Descripción de la imagen 3">
         </section>
     </main>
     <footer>

@@ -6,23 +6,18 @@
     <title>Promoción de la Aplicación</title>
     <link rel="stylesheet" href="styles.css">
     <style>
-        /* CSS para centrar y alinear las imágenes */
+        /* CSS para alinear las imágenes en la misma fila */
         .image-row {
             display: flex;
-            justify-content: center;
+            justify-content: space-between;
             align-items: center;
             margin-top: 10px;
         }
         .image-row img {
-            max-width: 50%;
+            max-width: 45%;
             height: auto;
         }
-        .left-image {
-            margin-right: auto;
-        }
-        .right-image {
-            margin-left: auto;
-        }
+        /* CSS para centrar la imagen */
         .center-image {
             display: flex;
             justify-content: center;
@@ -63,12 +58,12 @@
             <h2>Descargar Aplicación</h2>
             <button onclick="openGoogle()">PROXIMAMENTE...</button>
         </section>
-        <!-- Primera imagen alineada a la izquierda -->
+        <!-- Sección de imágenes en la misma fila -->
         <section class="image-row">
-            <img src="incio.jpeg" alt="Descripción de la imagen" class="left-image">
-            <img src="Segundo.jpeg" alt="Descripción de la imagen 2" class="right-image">
+            <img src="Segundo.jpeg" alt="Descripción de la imagen 2">
+            <img src="incio.jpeg" alt="Descripción de la imagen">
         </section>
-        <!-- Segunda imagen centrada -->
+        <!-- Tercera imagen centrada -->
         <section class="center-image">
             <img src="Tercero.jpeg" alt="Descripción de la imagen 3">
         </section>

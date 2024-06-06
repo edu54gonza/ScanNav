@@ -51,6 +51,14 @@
         <section class="center-image">
             <img src="incio.jpeg" alt="Descripción de la imagen">
         </section>
+        <!-- Segunda imagen centrada -->
+        <section class="center-image">
+            <img src="ruta-de-tu-imagen-2.jpg" alt="Descripción de la imagen 2">
+        </section>
+        <!-- Tercera imagen centrada -->
+        <section class="center-image">
+            <img src="ruta-de-tu-imagen-3.jpg" alt="Descripción de la imagen 3">
+        </section>
     </main>
     <footer>
         <p>&copy; 2024 ScanNav.</p>

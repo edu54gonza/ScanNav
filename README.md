@@ -10,10 +10,10 @@
             display: flex;
             justify-content: center;
             align-items: center;
-            margin-top: 20px;
+            margin-top: 10px;
         }
         .center-image img {
-            max-width: 100%;
+            max-width: 50%;
             height: auto;
         }
     </style>

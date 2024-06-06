@@ -49,7 +49,7 @@
         </section>
         <!-- Sección de imagen centrada -->
         <section class="center-image">
-            <img src="ruta-de-tu-imagen.jpg" alt="Descripción de la imagen">
+            <img src="incio.jpeg" alt="Descripción de la imagen">
         </section>
     </main>
     <footer>

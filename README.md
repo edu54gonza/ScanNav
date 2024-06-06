@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -44,8 +43,8 @@
             </ul>
         </section>
         <section id="download">
-            <h2>PROXIMAMENTE....</h2>
-            <button onclick="openGoogle()">Abrir Google</button>
+            <h2>Descargar Aplicación</h2>
+            <button onclick="openGoogle()">PROXIMAMENTE...</button>
         </section>
         <!-- Sección de imagen centrada -->
         <section class="center-image">

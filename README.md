@@ -54,7 +54,7 @@
             </ul>
         </section>
         <section id="download">
-            <h2>Descargar Aplicación</h2>
+            <h2>Descargar aplicación</h2>
             <button onclick="openGoogle()">PROXIMAMENTE...</button>
         </section>
         <!-- Sección de imágenes en la misma fila -->

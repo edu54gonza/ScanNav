@@ -5,6 +5,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Promoción de la Aplicación</title>
     <link rel="stylesheet" href="styles.css">
+    <style>
+        /* CSS para centrar la imagen */
+        .center-image {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-top: 20px;
+        }
+        .center-image img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
 </head>
 <body>
     <header>
@@ -33,6 +46,10 @@
         <section id="download">
             <h2>Descargar la Aplicación</h2>
             <button onclick="openGoogle()">Abrir Google</button>
+        </section>
+        <!-- Sección de imagen centrada -->
+        <section class="center-image">
+            <img src="ruta-de-tu-imagen.jpg" alt="Descripción de la imagen">
         </section>
     </main>
     <footer>

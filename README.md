@@ -65,7 +65,7 @@
         </section>
         <!-- Tercera imagen centrada -->
         <section class="center-image">
-            <img src="Tercero.jpeg" alt="Descripción de la imagen 3">
+            <img src="QR.jpeg" alt="Descripción de la imagen 3">
         </section>
     </main>
     <footer>

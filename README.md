@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -5,7 +6,23 @@
     <title>Promoción de la Aplicación</title>
     <link rel="stylesheet" href="styles.css">
     <style>
-        /* CSS para centrar la imagen */
+        /* CSS para centrar y alinear las imágenes */
+        .image-row {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-top: 10px;
+        }
+        .image-row img {
+            max-width: 50%;
+            height: auto;
+        }
+        .left-image {
+            margin-right: auto;
+        }
+        .right-image {
+            margin-left: auto;
+        }
         .center-image {
             display: flex;
             justify-content: center;
@@ -46,15 +63,12 @@
             <h2>Descargar Aplicación</h2>
             <button onclick="openGoogle()">PROXIMAMENTE...</button>
         </section>
-        <!-- Sección de imagen centrada -->
-        <section class="center-image">
-            <img src="incio.jpeg" alt="Descripción de la imagen">
+        <!-- Primera imagen alineada a la izquierda -->
+        <section class="image-row">
+            <img src="incio.jpeg" alt="Descripción de la imagen" class="left-image">
+            <img src="Segundo.jpeg" alt="Descripción de la imagen 2" class="right-image">
         </section>
         <!-- Segunda imagen centrada -->
-        <section class="center-image">
-            <img src="Segundo.jpeg" alt="Descripción de la imagen 2">
-        </section>
-        <!-- Tercera imagen centrada -->
         <section class="center-image">
             <img src="Tercero.jpeg" alt="Descripción de la imagen 3">
         </section>
